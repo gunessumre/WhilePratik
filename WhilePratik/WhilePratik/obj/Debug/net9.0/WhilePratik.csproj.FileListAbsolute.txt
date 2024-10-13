@@ -1,0 +1,14 @@
+/Users/gunessumre/RiderProjects/UmreGunes/WhilePratik/WhilePratik/bin/Debug/net9.0/WhilePratik
+/Users/gunessumre/RiderProjects/UmreGunes/WhilePratik/WhilePratik/bin/Debug/net9.0/WhilePratik.deps.json
+/Users/gunessumre/RiderProjects/UmreGunes/WhilePratik/WhilePratik/bin/Debug/net9.0/WhilePratik.runtimeconfig.json
+/Users/gunessumre/RiderProjects/UmreGunes/WhilePratik/WhilePratik/bin/Debug/net9.0/WhilePratik.dll
+/Users/gunessumre/RiderProjects/UmreGunes/WhilePratik/WhilePratik/bin/Debug/net9.0/WhilePratik.pdb
+/Users/gunessumre/RiderProjects/UmreGunes/WhilePratik/WhilePratik/obj/Debug/net9.0/WhilePratik.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gunessumre/RiderProjects/UmreGunes/WhilePratik/WhilePratik/obj/Debug/net9.0/WhilePratik.AssemblyInfoInputs.cache
+/Users/gunessumre/RiderProjects/UmreGunes/WhilePratik/WhilePratik/obj/Debug/net9.0/WhilePratik.AssemblyInfo.cs
+/Users/gunessumre/RiderProjects/UmreGunes/WhilePratik/WhilePratik/obj/Debug/net9.0/WhilePratik.csproj.CoreCompileInputs.cache
+/Users/gunessumre/RiderProjects/UmreGunes/WhilePratik/WhilePratik/obj/Debug/net9.0/WhilePratik.dll
+/Users/gunessumre/RiderProjects/UmreGunes/WhilePratik/WhilePratik/obj/Debug/net9.0/refint/WhilePratik.dll
+/Users/gunessumre/RiderProjects/UmreGunes/WhilePratik/WhilePratik/obj/Debug/net9.0/WhilePratik.pdb
+/Users/gunessumre/RiderProjects/UmreGunes/WhilePratik/WhilePratik/obj/Debug/net9.0/WhilePratik.genruntimeconfig.cache
+/Users/gunessumre/RiderProjects/UmreGunes/WhilePratik/WhilePratik/obj/Debug/net9.0/ref/WhilePratik.dll
